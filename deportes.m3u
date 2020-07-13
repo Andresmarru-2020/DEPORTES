@@ -1,0 +1,19 @@
+#EXTM3U
+
+#EXTINF:-1, Fox Sports
+https://2203.janjua.pw:8088/adfree/foox01hd/playlist.m3u8?vidictid=184566085969&pk=20bff9788d4185513dfad40339bb984d6b39b4d49ea3a72a1a162097fb326232&id=98902
+
+#EXTINF:-1, ESPN 1
+https://2205.janjua.pw:8088/adfree/esp01hdd/chunklist_w2048193444.m3u8?id=98828&pk=20bff9788d4185513dfad40339bb984d6b39b4d49ea3a72a1a162097fb326232
+
+
+#EXTINF:-1, DIRECTV SPORTS
+https://2203.janjua.pw:8088/adfree/directvhd11/playlist.m3u8?vidictid=184563201635&pk=20bff9788d4185513dfad40339bb984d6b39b4d49ea3a72a1a162097fb326232&id=98321
+
+
+#EXTINF:-1, ESPN 2
+https://sv.tsnt.xyz/espn/espn2_sur.m3u8
+
+
+#EXTINF:-1, Fox Sports 2
+https://e3.cdn4.us/ingest013/53858.m3u8?sf=VjBid3dSazlGbA==&token=kbFws1k5pmF4wkVGdkOwyA&expires=1594666630&rnd=
